@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Varun</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolvarun9295&label=Total+Visitors&color=0e75b6&style=flat-square	&color=red" alt="wolvarun9295" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolvarun9295&margin-w=15&theme=monokai&row=1&column=3" alt="wolvarun9295" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolvarun9295&margin-w=50&theme=monokai&row=1&column=3" alt="wolvarun9295" /></a> </p>
 
 - 🌱 I'm currently learning Spark, Elasticsearch, Cassandra and Machine Learning Basics.
 - 📫 How to reach me: You can reach me [here](varun.nagrare@gmail.com)
