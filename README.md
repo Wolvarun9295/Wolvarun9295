@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **An Apple 🍎 a Year keeps your Money 💸 in Fear 😨**
 
 ### Languages, Frameworks and Tools:
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="25" alt="Python" />
+<p><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="25" alt="Python" />
 
 <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/dbs-hadoop_icon-icons.com_50912.png" width="25" alt="Apache Hadoop" />
 <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/apache_spark_logo_icon_145492.png" width="25" alt="Apache Spark" />
@@ -30,6 +30,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" width="25" alt="Jupyter Lab" />
 
 <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_white_600x.png" width="20" alt="Jupyter Lab" />
+</p>
 
 #
 
