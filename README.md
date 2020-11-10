@@ -38,11 +38,10 @@
 #
 
 <p align=center>
-
-![Varun's github stats](https://github-readme-stats.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&hide=contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical)
-
+<img src=https://github-readme-stats.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&hide=contribs>
+</p>
+<p align=center>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical>
 </p>
 
 #
