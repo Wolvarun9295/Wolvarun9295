@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Varun</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A 🧑🏻‍💻 passionate Data Engineer from 🇮🇳 India! 🤓</h3>
 <br>
 
 <p align=center><img src=https://gpvc.arturio.dev/Wolvarun9295></p>
