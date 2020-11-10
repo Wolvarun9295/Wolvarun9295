@@ -53,4 +53,4 @@
 #
 
 ### Me everyday diving in something new feels like...
-<img src=https://media1.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.gif>
+<img src=https://i.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.webp>
