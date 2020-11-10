@@ -9,8 +9,11 @@
 - 📫 How to reach me: You can reach me [here](varun.nagrare@gmail.com)
 - ⚡ Fun fact: **An Apple 🍎 a Year keeps your Money 💸 in Fear 😨**
 
+#
+
 ### Languages, Frameworks and Tools:
-<p><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="25" alt="Python" />
+<p>
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="25" alt="Python" />
 
 <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/dbs-hadoop_icon-icons.com_50912.png" width="25" alt="Apache Hadoop" />
 <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/apache_spark_logo_icon_145492.png" width="25" alt="Apache Spark" />
@@ -34,15 +37,21 @@
 
 #
 
+<p>
+
 ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical)
 
+</p>
+
 #
 
 ### Connect with me:
+<p>
 <img src="https://www.freeiconspng.com/uploads/logo-twitter-icon-symbol-0.png" width="25" alt="Logo Twitter Icon Symbol" />
 <img src="https://www.freeiconspng.com/uploads/github-logo-icon-23.png" width="25" alt="Windows Icons Github Logo For" />
+</p>
 
 #
 
