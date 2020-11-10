@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolvarun9295&margin-w=50&theme=monokai&row=1&column=3" alt="wolvarun9295" /></a> </p>
 
 - 🌱 I'm currently learning Spark, Elasticsearch, Cassandra and Machine Learning Basics.
-- 📫 How to reach me: You can reach me [here](varun.nagrare@gmail.com)
+- 📫 How to reach me: You can reach me [here](mailto:varun.nagrare@gmail.com)
 - ⚡ Fun fact: **An Apple 🍎 a Year keeps your Money 💸 in Fear 😨**
 
 #
