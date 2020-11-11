@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Varun 🤓</h1>
-<h3 align="center">A 🧑🏻‍💻 passionate Data Engineer from 🇮🇳 India!</h3>
+<h3 align="center">A 👨🏻‍💻 passionate Data Engineer from 🇮🇳 India!</h3>
 <br>
 
 <p align=center><img src=https://gpvc.arturio.dev/Wolvarun9295></p>
@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning Spark, Elasticsearch, Cassandra and Machine Learning Basics.
 - 📫 How to reach me: See down below.
-- ⚡ Fun fact: An Apple 🍎 a Year keeps your Money 💸 in Fear 😨
+- 🦧 Fun fact: I also learn 🇯🇵 Japanese as an hobby since my interest in anime and manga.
 
 #
 
@@ -43,18 +43,16 @@
 #
 
 <details>
-    <summary>GitHub Stats</summary>
+    <summary>💪🏻 GitHub Stats</summary>
     <p align=center>
-    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&hide=contribs,issues&count_private=true>
-    </p>
-    <p align=center>
-    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical>
+    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&count_private=true width=50% align="left" />
+    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical width=50% />
     </p>
 </details>
 
 #
 
-### Connect with me:
+### Connect with me 🤜🏻🤛🏻 :
 
 <p>
 <a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>&emsp;&emsp;&emsp;
@@ -67,5 +65,5 @@
 
 #
 
-### Me everyday diving in something new feels like...
-<p align=center><img src=https://i.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.webp></p>
+### Me everyday diving in something new feels like 👀...
+<p align=center><img src=https://i.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.webp width=100%></p>
