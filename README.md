@@ -34,8 +34,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachekafka.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/
-npm/simple-icons@v3/icons/apachecassandra.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachecassandra.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 </p>
@@ -54,11 +53,11 @@ npm/simple-icons@v3/icons/apachecassandra.svg" />
 ### Connect with me:
 
 <p>
-<a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg", style="padding-right: 25px;" /></a>
-<a href="https://stackoverflow.com/users/13797432/varun-nagrare"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg", style="padding-right: 25px;" /></a>
-<a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg", style="padding-right: 25px;" /></a>
-<a href="_null"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg", style="padding-right: 25px;" /></a>
-<a href="https://www.reddit.com/user/Wolvarun9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg", style="padding-right: 25px;" /></a>
+<a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://stackoverflow.com/users/13797432/varun-nagrare"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
+<a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="_null"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+<a href="https://www.reddit.com/user/Wolvarun9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/></a>
 <a href="mailto:varun.nagrare@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
 
