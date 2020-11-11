@@ -5,7 +5,6 @@
 <p align=center><img src=https://gpvc.arturio.dev/Wolvarun9295></p>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolvarun9295&margin-w=50&theme=monokai&row=1&column=3" alt="wolvarun9295" /></a> </p>
 
 - 🌱 I'm currently learning Spark, Elasticsearch, Cassandra and Machine Learning Basics.
 - 📫 How to reach me: See down below.
@@ -51,6 +50,14 @@
     <br/>
     <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&count_private=true width=50% align="left" />
     <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical width=42%  />
+    </p>
+</details>
+
+<details>
+    <summary>💪🏻 GitHub Achievements</summary>
+    <p align=center>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=wolvarun9295&margin-w=50&theme=monokai&row=1&column=3" alt="wolvarun9295" />
     </p>
 </details>
 
