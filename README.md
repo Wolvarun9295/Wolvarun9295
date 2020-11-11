@@ -52,14 +52,19 @@
 
 ### Connect with me:
 
-<p style="max-width: 10vw;">
+<pre>
 <a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+
 <a href="https://stackoverflow.com/users/13797432/varun-nagrare"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
+
 <a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+
 <a href="_null"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+
 <a href="https://www.reddit.com/user/Wolvarun9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/></a>
+
 <a href="mailto:varun.nagrare@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-</p>
+</pre>
 
 #
 
