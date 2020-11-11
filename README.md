@@ -12,7 +12,7 @@
 - 🦧 Fun fact: I also learn 🇯🇵 Japanese as an hobby since my interest in anime and manga.
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.wolvarun9295.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem.wolvarun9295.vercel.app/api/spotify)](https://open.spotify.com/user/3126uty64v3uxorf7gei7jtwc2ri)
 
 #
 
