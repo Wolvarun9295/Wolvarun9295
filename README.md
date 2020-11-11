@@ -45,8 +45,8 @@
 <details>
     <summary>💪🏻 GitHub Stats</summary>
     <p align=center>
-    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&count_private=true width=40% align="left" />
-    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical width=50%  />
+    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&count_private=true width=100vw align="left" />
+    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical width=100vw  />
     </p>
 </details>
 
