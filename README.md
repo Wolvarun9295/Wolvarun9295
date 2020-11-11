@@ -14,27 +14,30 @@
 #
 
 ### Languages, Frameworks and Tools:
+
 <p>
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="35" alt="Python" />
-
-<img src="https://cdn.icon-icons.com/icons2/512/PNG/512/dbs-hadoop_icon-icons.com_50912.png" width="35" alt="Apache Hadoop" />
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/apache_spark_logo_icon_145492.png" width="35" alt="Apache Spark" />
-
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" width="35" alt="MySQL" />
-<img src="https://cdn.icon-icons.com/icons2/512/PNG/512/dbs-cassandra_icon-icons.com_50916.png" width="35" alt="Cassandra" />
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="35" alt="MongoDB" />
-<img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" width="90" alt="Elasticsearch" />
-
-<img src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" width="35" alt="Flask" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="35" alt="HTML5" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="35" alt="CSS3" />
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="35" alt="jQuery" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/220px-PyCharm_Logo.svg.png" width="35" alt="Jupyter Lab" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="35" alt="Jupyter Lab" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" width="35" alt="Jupyter Lab" />
-
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_white_600x.png" width="25" alt="Jupyter Lab" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachekafka.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/
+npm/simple-icons@v3/icons/apachecassandra.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 </p>
 
 #
@@ -51,11 +54,11 @@
 ### Connect with me:
 
 <p>
-<a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://stackoverflow.com/users/13797432/varun-nagrare"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="_null"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.reddit.com/user/Wolvarun9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /></a>
+<a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg", style="padding-right: 25px;" /></a>
+<a href="https://stackoverflow.com/users/13797432/varun-nagrare"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg", style="padding-right: 25px;" /></a>
+<a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg", style="padding-right: 25px;" /></a>
+<a href="_null"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg", style="padding-right: 25px;" /></a>
+<a href="https://www.reddit.com/user/Wolvarun9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg", style="padding-right: 25px;" /></a>
 <a href="mailto:varun.nagrare@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
 
