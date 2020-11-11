@@ -10,6 +10,8 @@
 - 📫 How to reach me: See down below.
 - 🦧 Fun fact: I also learn 🇯🇵 Japanese as an hobby since my interest in anime and manga.
 
+<br/>
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.wolvarun9295.vercel.app/api/spotify)](https://open.spotify.com/user/3126uty64v3uxorf7gei7jtwc2ri)
 
@@ -52,6 +54,8 @@
     <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical width=42%  />
     </p>
 </details>
+
+<br/>
 
 <details>
     <summary>🏆 GitHub Achievements</summary>
