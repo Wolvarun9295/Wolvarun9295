@@ -54,7 +54,7 @@
 </details>
 
 <details>
-    <summary>💪🏻 GitHub Achievements</summary>
+    <summary>🏆 GitHub Achievements</summary>
     <p align=center>
     <br/>
     <img src="https://github-profile-trophy.vercel.app/?username=wolvarun9295&margin-w=50&theme=monokai&row=1&column=3" alt="wolvarun9295" />
