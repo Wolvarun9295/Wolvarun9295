@@ -45,6 +45,7 @@
 <details>
     <summary>💪🏻 GitHub Stats</summary>
     <p align=center>
+    <br/>
     <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&count_private=true width=50% align="left" />
     <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical width=42%  />
     </p>
