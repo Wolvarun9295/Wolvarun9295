@@ -11,6 +11,9 @@
 - 📫 How to reach me: See down below.
 - 🦧 Fun fact: I also learn 🇯🇵 Japanese as an hobby since my interest in anime and manga.
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.wolvarun9295.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 #
 
 ### Languages and Tools:
