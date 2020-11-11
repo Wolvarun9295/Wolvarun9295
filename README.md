@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning Spark, Elasticsearch, Cassandra and Machine Learning Basics.
 - 📫 How to reach me: See down below.
-- ⚡ Fun fact: **An Apple 🍎 a Year keeps your Money 💸 in Fear 😨**
+- ⚡ Fun fact: An Apple 🍎 a Year keeps your Money 💸 in Fear 😨
 
 #
 
@@ -42,12 +42,15 @@
 
 #
 
-<p align=center>
-<img src=https://github-readme-stats.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&hide=contribs,issues&count_private=true>
-</p>
-<p align=center>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical>
-</p>
+<details>
+    <summary>GitHub Stats</summary>
+    <p align=center>
+    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api?username=Wolvarun9295&show_icons=true&theme=radical&hide=contribs,issues&count_private=true>
+    </p>
+    <p align=center>
+    <img src=https://github-readme-stats.wolvarun9295.vercel.app/api/top-langs/?username=Wolvarun9295&layout=compact&theme=radical>
+    </p>
+</details>
 
 #
 
