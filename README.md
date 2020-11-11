@@ -81,4 +81,4 @@
 #
 
 ### Me everyday diving in something new feels like 👀...
-<p align=center><img src=https://i.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.webp width=100%></p>
+<p align=center><img src=https://i.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.webp width=80%></p>
