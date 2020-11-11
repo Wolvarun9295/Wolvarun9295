@@ -36,7 +36,8 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachekafka.svg" />&emsp;&emsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachecassandra.svg" />&emsp;&emsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />&emsp;&emsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />&emsp;&emsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg" />
 </p>
 
 #
