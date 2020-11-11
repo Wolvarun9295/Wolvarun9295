@@ -13,7 +13,7 @@
 
 #
 
-### Languages, Frameworks and Tools:
+### Languages and Tools:
 
 <p>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
@@ -52,7 +52,7 @@
 
 ### Connect with me:
 
-<p>
+<p style="max-width: 10vw;">
 <a href="https://twitter.com/Wolvarun9295"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://stackoverflow.com/users/13797432/varun-nagrare"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
 <a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
