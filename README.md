@@ -75,7 +75,8 @@
 <a href="https://www.instagram.com/phoenix_v9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&emsp;&emsp;&emsp;&nbsp;
 <a href="_null"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>&emsp;&emsp;&emsp;&nbsp;
 <a href="https://www.reddit.com/user/Wolvarun9295/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/></a>&emsp;&emsp;&emsp;&nbsp;
-<a href="mailto:varun.nagrare@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="mailto:varun.nagrare@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>&emsp;&emsp;&emsp;
+<a href="https://steamcommunity.com/profiles/76561198238970644/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" /></a>
 </p>
 
 #
